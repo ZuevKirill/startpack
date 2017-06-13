@@ -3,7 +3,7 @@
   "description": "My First Gulp Project",
   "main": "index.js",
   "authors": [
-    "WebDesign Master"
+    "Zuev"
   ],
   "license": "ISC",
   "homepage": "",
@@ -18,6 +18,11 @@
   "dependencies": {
     "normalize.css": "*",
     "jquery": "2.*",
-    "bootstrap-grid-css": "*"
+    "bootstrap-grid-css": "*",
+    "OwlCarousel": "2.2.1"
+  },
+  "devDependencies": {
+    "OwlCarousel": "^1.3.2",
+    "owl.carousel": "OwlCarousel2#^2.2.1"
   }
 }

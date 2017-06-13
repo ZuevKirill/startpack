@@ -1,3 +1,12 @@
 body {
   background-color: pink;
   font-size: 20px; }
+
+.owl-theme .item {
+  margin: 3px; }
+
+.owl-theme .item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: #000; }
